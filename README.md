@@ -1,2 +1,2 @@
 # Reverse-Initial-Access [R.I.A]
-<img src="https://cdn.prod.website-files.com/65565a6ae1bebedfef4026ca/65679af007e10f9446d5d7a1_Initial_access_brokers_blog.jpg"
+![image](https://github.com/user-attachments/assets/4311bcd1-4933-4d32-b447-c7b9ca7b7d1c)
