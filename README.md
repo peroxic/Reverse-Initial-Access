@@ -23,9 +23,9 @@ Currently unknown but i would say the follow are all compatible:
 * Covenant C2
 pretty much any post exploitation framework that generates a .bin shellcode file. 
 
-* Listeners
+# Listeners
 I recommend using netcat or a python server, but using an RDP with the necessary open ports and using the RDP Public IP works jut aswell.
 
 
-* Disclosure
+# Disclosure
 I am in no way shape or form responsible for anyone who uses anything inside of my profile or this repo, this repo and my profile is meant to help red and blue teamers and educate people on this type of attack(s) and how people can leverage things on your system to attack you and others. I do not promote or am okay with any user(s) using this repo or any other repo I post or create for illegal purposes or in any non-ethical way.
